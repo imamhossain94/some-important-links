@@ -13,3 +13,8 @@
 <h2 align="center">PERSONAL PROFILE LINK SHARE</h2>
 
 - Personal Profile Link Share:  **[Link Tree](https://linktr.ee/)**
+
+
+<h2 align="center">FREE DICTONARY API</h2>
+
+- Free Dictionary API:  **[Free Dictionary API](https://dictionaryapi.dev/)**
