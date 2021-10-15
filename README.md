@@ -18,3 +18,7 @@
 <h2 align="center">FREE DICTONARY API</h2>
 
 - Free Dictionary API:  **[Free Dictionary API](https://dictionaryapi.dev/)**
+
+<h2 align="center">FREE Open Weather API</h2>
+
+- Free Weather API: **[Open Weather](https://openweathermap.org/)**
