@@ -22,3 +22,8 @@
 <h2 align="center">FREE Open Weather API</h2>
 
 - Free Weather API: **[Open Weather](https://openweathermap.org/)**
+
+
+<h2 align="center"> বাংলা ফন্টের জগত</h2>
+
+- বাংলা ফন্টের জগত: **[লিপিঘর](https://lipighor.com/)**
