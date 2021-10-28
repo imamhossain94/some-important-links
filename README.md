@@ -27,3 +27,9 @@
 <h2 align="center"> লিপিঘর </h2>
 
 - বাংলা ফন্টের জগত: **[লিপিঘর](https://lipighor.com/)**
+
+<h2 align="center"> Free SVG </h2>
+
+- SVG Repo: **[svgrepo](https://www.svgrepo.com/)**
+
+- Free Icons: **[freeicons](https://freeicons.io/)**
